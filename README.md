@@ -30,9 +30,11 @@ I am currently a 3rd year student, studying Computer Science and Engineering at 
 #### Machine Learning
 <a href="https://github.com/spandanpal22/Bank-Customer-Churn-Prediction">Bank Customer Churn Prediction(Used Logistic Regression, KNN, Decision Tree and Random Forest)</a>
 <br/>
+<a href="https://github.com/spandanpal22/Predicting_House_Price">Predicting House Price(Used Linear Regression)</a>
+<br/>
 <a href="https://github.com/spandanpal22/Classification_Problem_Prediction">Classification Problem Prediction(Used Logistic Regression)</a>
 <br/>
-<a href="https://github.com/spandanpal22/Classification_Problem_Random_Forest">Classification Problem Using Random Forest</a>
+<a href="https://github.com/spandanpal22/Classification_Problem_Random_Forest">Classification Problem(Used Random Forest)</a>
 <br/>
 #### Computer Vision
 <a href="https://github.com/spandanpal22/facial-expression-recognition">Facial Expression Recognizer</a>
