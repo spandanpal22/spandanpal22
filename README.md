@@ -20,35 +20,22 @@ I am currently a 3rd year student, studying Computer Science and Engineering at 
 ### Links to some of my works :
 
 #### Web Development
-<a href="https://github.com/spandanpal22/Online-Multiplayer-TicTacToe">Online multiplayer Tic-Tac-Toe with chat rooms</a>
-<br/>
-<a href="https://github.com/spandanpal22/Railway_Reservation_System">Railway Reservation System</a>
-<br/>
+- <a href="https://github.com/spandanpal22/Online-Multiplayer-TicTacToe">Online multiplayer Tic-Tac-Toe with chat rooms</a>
+- <a href="https://github.com/spandanpal22/Railway_Reservation_System">Railway Reservation System</a>
 #### Android App Development
-<a href="https://github.com/spandanpal22/MyScanner-Public">MyScanner (An image to PDF converter)</a>
-<br/>
-<a href="https://github.com/spandanpal22/Ask-App">Ask App (A forum app)</a>
-<br/>
+- <a href="https://github.com/spandanpal22/MyScanner-Public">MyScanner (An image to PDF converter)</a>
+- <a href="https://github.com/spandanpal22/Ask-App">Ask App (A forum app)</a>
 #### Machine Learning
-<a href="https://github.com/spandanpal22/Bank-Customer-Churn-Prediction">Bank Customer Churn Prediction(Used Logistic Regression, KNN, Decision Tree and Random Forest)</a>
-<br/>
-<a href="https://github.com/spandanpal22/Predicting_House_Price">Predicting House Price(Used Linear Regression)</a>
-<br/>
-<a href="https://github.com/spandanpal22/Classification_Problem_Prediction">Classification Problem Prediction(Used Logistic Regression)</a>
-<br/>
-<a href="https://github.com/spandanpal22/Classification_Problem_Random_Forest">Classification Problem(Used Random Forest)</a>
-<br/>
+- <a href="https://github.com/spandanpal22/Bank-Customer-Churn-Prediction">Bank Customer Churn Prediction(Used Logistic Regression, KNN, Decision Tree and Random Forest)</a>
+- <a href="https://github.com/spandanpal22/Predicting_House_Price">Predicting House Price(Used Linear Regression)</a>
+- <a href="https://github.com/spandanpal22/Classification_Problem_Prediction">Classification Problem Prediction(Used Logistic Regression)</a>
+- <a href="https://github.com/spandanpal22/Classification_Problem_Random_Forest">Classification Problem(Used Random Forest)</a>
 #### Computer Vision
-<a href="https://github.com/spandanpal22/facial-expression-recognition">Facial Expression Recognizer</a>
-<br/>
-<a href="https://github.com/spandanpal22/Motion-Detection-Using-OpenCV">Motion Detection</a>
-<br/>
+- <a href="https://github.com/spandanpal22/facial-expression-recognition">Facial Expression Recognizer</a>
+- <a href="https://github.com/spandanpal22/Motion-Detection-Using-OpenCV">Motion Detection</a>
 #### Web Scrapping
-<a href="https://github.com/spandanpal22/Web_Scraping_Amazon">Scrapping Amazon Website</a>
-<br/>
+- <a href="https://github.com/spandanpal22/Web_Scraping_Amazon">Scrapping Amazon Website</a>
 #### Internet of Things
-<a href="https://github.com/spandanpal22/Internshala_IoT_Training_Final_Project">Temperature Analysis and Alert System</a>
-<br/>
+- <a href="https://github.com/spandanpal22/Internshala_IoT_Training_Final_Project">Temperature Analysis and Alert System</a>
 #### Game Development
-<a href="https://github.com/spandanpal22/PickUpCoins">Pick Up Coins</a>
-<br/>
+- <a href="https://github.com/spandanpal22/PickUpCoins">Pick Up Coins</a>
