@@ -21,6 +21,8 @@ I am currently a 3rd year student, studying Computer Science and Engineering at 
 #### Web Development
 - <a href="https://github.com/spandanpal22/Online-Multiplayer-TicTacToe">Online multiplayer Tic-Tac-Toe with chat rooms</a>
 - <a href="https://github.com/spandanpal22/Railway_Reservation_System">Railway Reservation System</a>
+- <a href="https://github.com/spandanpal22/techmela">Techmela 2021</a>
+- <a href="https://github.com/spandanpal22/startup_fair">Startup Fair 2020</a>
 #### Android App Development
 - <a href="https://github.com/spandanpal22/MyScanner-Public">MyScanner (An image to PDF converter)</a>
 - <a href="https://github.com/spandanpal22/Ask-App">Ask App (A forum app)</a>
