@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am currently a 3rd year student, studying Computer Science and Engineering at National Institute of Technology, Durgapur. I am a full-stack web developer, app developer and a Machine Learning enthusiast too. Besides, I am a web and app developer of Web, Design and Creative Team of Centre for Cognitive Activities, NIT Durgapur where our team is involved in building awesome websites during our college fest Aarohan and various online and offline events of our club. Our team also maintains the CCA-NITD app on Google PlayStore.
+I am currently working as a Software Engineer at Microsoft. I finished my B.Tech in Computer Science and Engineering from National Institute of Technology, Durgapur in 2022. I am a full-stack web developer, app developer and a Machine Learning enthusiast too. I am well versed with .NET as well as other Azure cloud technologies. Besides, I have also been a web and app developer of Web, Design and Creative Team of Centre for Cognitive Activities, NIT Durgapur during my college days where our team was involved in building awesome websites for our college fest, Aarohan, and various online and offline events of our club. Our team also maintained the CCA-NITD app on Google PlayStore.
 <br/>
 ### Links to some of my works :
 
